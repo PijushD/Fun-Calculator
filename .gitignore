@@ -1,0 +1,41 @@
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Eclipse specific files
+.settings/
+.classpath
+.project
+.metadata
+
+# Build folders
+build/
+bin/
+target/
+tmp/
+
+# Server folders
+Servers/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Local properties
+local.properties
+
+# Eclipse launch configurations (optional - include if you want to share run configs)
+# *.launch
+
+# OS specific
+.DS_Store
+Thumbs.db
